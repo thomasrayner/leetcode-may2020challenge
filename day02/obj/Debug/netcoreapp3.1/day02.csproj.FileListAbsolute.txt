@@ -1,0 +1,13 @@
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.csprojAssemblyReference.cache
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.csproj.CoreCompileInputs.cache
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.AssemblyInfoInputs.cache
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.AssemblyInfo.cs
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.exe
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.deps.json
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.runtimeconfig.json
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.runtimeconfig.dev.json
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.dll
+C:\git\_github\leetcode-may2020challenge\day02\bin\Debug\netcoreapp3.1\day02.pdb
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.dll
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.pdb
+C:\git\_github\leetcode-may2020challenge\day02\obj\Debug\netcoreapp3.1\day02.genruntimeconfig.cache
