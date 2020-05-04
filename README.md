@@ -13,3 +13,4 @@ The description:
 | 01 | [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | Interactive problem that doesn't run locally. Binary search. |
 | 02 | [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | Common chars in strings |
 | 03 | [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | Compare counts of specific chars between strings |
+| 04 | [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | Bit shifting, bitwise operators. |
