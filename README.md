@@ -16,3 +16,4 @@ The description:
 | 04 | [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | Bit shifting, bitwise operators. |
 | 05 | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | |
 | 06 | [Majority](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | One element occurs more than the rest combined and must be found |
+| 07 | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | Interactive problem that doesn't run locally. BFS, breadth first search. |
