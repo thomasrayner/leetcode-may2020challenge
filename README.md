@@ -18,3 +18,4 @@ The description:
 | 06 | [Majority](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | One element occurs more than the rest combined and must be found |
 | 07 | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | Interactive problem that doesn't run locally. BFS, breadth first search. |
 | 08 | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | Given a series of `x,y` coords, see if the slope is the same between all of them |
+| 09 | [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | Find out if a number is a perfect square without built in libs. Binary search. |
