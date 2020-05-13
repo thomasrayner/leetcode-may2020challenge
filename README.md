@@ -22,3 +22,4 @@ The description:
 | 10 | [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | Given a count of townspeople and a list of "who trusts who", find the townsperson who trusts nobody and is trusted by all. |
 | 11 | [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | Recursion |
 | 12 | [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | Binary search|
+| 13 | [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | Make the smallest number possible out of input number by removing k digits. |
