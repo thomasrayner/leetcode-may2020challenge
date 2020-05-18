@@ -27,3 +27,4 @@ The description:
 | 15 | [Maximum Sum Circular Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/) | Kadane's algo. |
 | 16 | [Odd Even Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) | Interactive problem that doesn't run locally. Re-ordering a singly linked list with pointers. |
 | 17 | [Find All Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | Sliding window. |
+| 18 | [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | Sliding window again for some reason - same as d17. |
