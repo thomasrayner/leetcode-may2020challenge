@@ -29,3 +29,4 @@ The description:
 | 17 | [Find All Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | Sliding window. |
 | 18 | [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | Sliding window again for some reason - same as d17. |
 | 19 | [Online Stock Spanner](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | Interactive problem that doesn't run locally. Stacks. |
+| 20 | [Kth Smallest Element in a BST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | Interactive problem that doesn't run locally. BST, binary search tree, DFS, depth-first search, recursion, in-order traversal. |
