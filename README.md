@@ -36,3 +36,4 @@ The description:
 | 24 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) | BST. |
 | 25 | [UncrossedLines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) | Dynamic programming. |
 | 26 | [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) | Identical to April 2020 day 13 problem. |
+| 27 | [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) | Interactive problem that doesn't run locally. DFS, depth first search. |
