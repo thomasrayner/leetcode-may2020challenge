@@ -44,7 +44,7 @@ namespace day31
                 for (int j = 1; j < length2; j++)
                 {
                     int min = Math.Min(prog[i - 1, j - 1], Math.Min(prog[i - 1, j], prog[i, j - 1]));
-                    
+
                     if (word1[i - 1] == word2[j - 1])
                     {
                         prog[i, j] = prog[i - 1, j - 1];
@@ -55,8 +55,9 @@ namespace day31
                     }
                 }
 
-                return prog[length1 - 1, length2 - 1];
             }
+
+            return prog[length1 - 1, length2 - 1];
         }
     }
 }
