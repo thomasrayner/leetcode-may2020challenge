@@ -40,3 +40,4 @@ The description:
 | 28 | [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) | Binary math, bitwise operators. |
 | 29 | [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) | Interactive problem that doesn't run locally. DFS, depth first search. |
 | 30 | [K Closest Points to Origin](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) | Math. Used Linq instead of coming up with a more efficient algo - in a hurry... still beat 62% 🤷‍♂️. |
+| 31 | [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/) | Dynamic programming. |
